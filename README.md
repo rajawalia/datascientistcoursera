@@ -1,4 +1,4 @@
-datascientist
+##datascientistcoursera
 =============
 
-repo for datascientist cource trials
+###repo for datascientist coursera trials
